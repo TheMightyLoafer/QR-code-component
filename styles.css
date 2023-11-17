@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid red;
+    width: 720px;
+    margin: 10vh auto 0 auto;
+}
+
