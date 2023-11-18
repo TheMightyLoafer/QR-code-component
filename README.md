@@ -38,17 +38,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 This was a great review of using flexbox to create and render content in the center of a page. Great for small components.
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
 
 
 ### Useful resources
