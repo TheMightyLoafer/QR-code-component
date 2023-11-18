@@ -1,5 +1,8 @@
 body {
     margin: 0;
+    background-color: hsl(220, 15%, 55%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
 }
 
 .container {
@@ -7,8 +10,25 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border: 1px solid red;
-    width: 720px;
+    width: 320px;
     margin: 10vh auto 0 auto;
+    border-radius: 15px;
+    background-color: hsl(212, 45%, 89%);
+    padding: 1em;
+}
+
+.container p {
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+}
+
+.container h2 {
+    text-align: center;
+    font-size: 1.75em;
+}
+
+.container img {
+    border-radius: 25px;
+    width: 100%;
 }
 
